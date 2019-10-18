@@ -47,6 +47,6 @@ None
 
 ## Background material
 
-* :exclamation: [Python Basics](https://learn.code.cool/progbasics/#/../pages/python/python-basics-variables-conditions-loops-lists-strings-functions-user-interactions-file-handling)
+* :exclamation: [Python Basics](https://learn.code.cool/codecool-graph/#/../pages/python/python-basics-variables-conditions-loops-lists-strings-functions-user-interactions-file-handling)
 * :exclamation: [Tutorial about command line arguments in Python](https://www.pythonforbeginners.com/system/python-sys-argv)
 * :exclamation: [Error handling in Python](https://python-textbok.readthedocs.io/en/stable/Errors_and_Exceptions.html)
