@@ -56,3 +56,8 @@ https://classroom.github.com/a/X1X2ZQMf
 - :exclamation: [Python Basics](https://learn.code.cool/codecool-graph/#/../pages/python/python-basics)
 - :exclamation: [Tutorial about command line arguments in Python](https://www.pythonforbeginners.com/system/python-sys-argv)
 - :exclamation: [Error handling in Python](https://python-textbok.readthedocs.io/en/stable/Errors_and_Exceptions.html)
+
+## Acceptance review
+
+You will need this only at review time, **after** completing the project.
+[Use this form](https://forms.gle/txDrU2D732PXmM7y7) to record the review you provide for your peer.
