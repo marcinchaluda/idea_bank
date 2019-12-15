@@ -53,7 +53,9 @@ https://classroom.github.com/a/X1X2ZQMf
 
 ## Background materials
 
-- :exclamation: [Python Basics](https://learn.code.cool/codecool-graph/#/../pages/python/python-basics)
+- :exclamation: [Strings](../pages/python/strings.md)
+- :exclamation: [Control structures](../pages/python/control-structures.md)
+- :exclamation: [Functions](../pages/python/functions.md)
 - :exclamation: [Tutorial about command line arguments in Python](https://www.pythonforbeginners.com/system/python-sys-argv)
 - :exclamation: [Error handling in Python](https://python-textbok.readthedocs.io/en/stable/Errors_and_Exceptions.html)
 
